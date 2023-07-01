@@ -71,6 +71,7 @@ hr{
 font-weight: bold;
 }
 
+
 .navigation .nav-pills{
     text-align: right;
 }
@@ -122,5 +123,9 @@ margin: auto;
     padding: 0 2px;
 }
 
-
+.tech-img{
+    padding: 1rem;
+    width: 10%;
+    height: 10%;
+}
 
